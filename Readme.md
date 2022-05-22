@@ -4,7 +4,7 @@ Cook a meal app is simple web app which will display the recipe to cook any meal
 
 ## Hosted Link
 
-Click on the link to view the web app : <https://www.manishbittu0999.github.io/FE-cook-a-meal/>
+Click on the link to view the web app : https://manishbittu0999.github.io/FE-cook-a-meal/
 
 Hosted on Netlify : https://fanciful-manatee-62a9a0.netlify.app/
 
